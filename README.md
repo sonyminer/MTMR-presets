@@ -892,7 +892,7 @@ The SONOS group leverages the [Menu Bar Controller for Sonos](https://mbc-for-so
 
 ---
 
-[@Sonyminer](Sonyminer-Preset/Sonyminer.json)
+[@sonyminer](Sonyminer-Preset/Sonyminer.json)
 
 Main TouchBar - Web group, Dock, Apps direct access, Battery, Date and Time, Weather, Media group, Time group, Currency group
 <img width="1085" alt="0 Main TouchBar" src="https://user-images.githubusercontent.com/81223337/117534111-59e31c00-aff0-11eb-8a6c-2c395b1b5f8e.png">
